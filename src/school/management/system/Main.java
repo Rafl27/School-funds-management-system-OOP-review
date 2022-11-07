@@ -39,5 +39,6 @@ public class Main {
         System.out.println("PUC has paid " + Joseph.getName() + " her/his salary: $" + Joseph.getSalary() + " and now has $" + puc.getTotalMoneyEarned());
         System.out.println(Rafael);
         System.out.println(Joseph);
+        System.out.println("test");
     }
 }
